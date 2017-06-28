@@ -9,7 +9,7 @@ Simle Laravel CRUD. Simple CRUD operations.
 ## Prerequisites
 1. Clone repository or download zip.
 <pre>
-git clone git@github.com:buhijs/simple_laravel_crud_test_project.git
+git clone git@github.com:buhijs/simple_laravel_crud.git
 </pre>
 2. After clonig repository or downloading, go to root folder and run folowing commands
 <pre>
